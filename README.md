@@ -38,13 +38,3 @@ Axios: A popular library for making HTTP requests.
 CSS: Styling the components.
 API Used
 The app fetches jokes from the Chuck Norris API: https://api.chucknorris.io/jokes/random?category=dev.
-
-Contributing
-Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request.
-
-License
-This project is licensed under the MIT License.
-
-Acknowledgments
-Thanks to Chuck Norris for providing endless jokes!
-Feel free to customize this README.md with more details specific to your project. Replace the placeholder URLs and add relevant information about the app, its usage, and any other relevant instructions for contributors or users.
