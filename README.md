@@ -6,9 +6,8 @@ Live Demo
 
 Screenshots
 App Screenshot
+![image](https://github.com/Anuragk-kumar/Joke-Generator/assets/74180720/37acd6eb-aacf-4281-89c1-ed79767fe3a9)
 
-
-![Screenshot (682)](https://github.com/Anuragk-kumar/Joke-Generator/assets/74180720/b3d0f633-9ca4-47d8-be41-b1cb2a4c9a20)
 
 Installation and Setup
 Clone this repository to your local machine:
